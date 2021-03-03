@@ -1,16 +1,18 @@
 {
-  "Noticia": [
-  {"id":1,"titulo":"Javascript","noticia":"............."},
-  {"id":2,"titulo":"PHP","noticia":"............."},
-  {"id":3,"titulo":"C#","noticia":"............."},
-  {"id":4,"titulo":"JAVA","noticia":"............."},
-  {"id":5,"titulo":"RUBY","noticia":"............."},
-  {"id":6,"titulo":"KOTLIN","noticia":"............."},  
+  "cursos": [
+    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
+    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
+    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
+    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "usuario":[
-    {"id":1,"nome":"Tiago","email":"tiago@email.com"},
-     {"id":2,"nome":"Bruno","email":"bruno@email.com"},
-    {"id":3,"nome":"Rafael","email":"rafael@email.com"},  
-  ]
-  
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  ],
+  "empresa": {
+    "nome": "Code Prestige"
+  }
 }
