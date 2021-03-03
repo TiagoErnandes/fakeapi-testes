@@ -1,0 +1,16 @@
+{
+  "Noticia": [
+  {"id":1,"titulo":"Javascript","noticia":"............."},
+  {"id":2,"titulo":"PHP","noticia":"............."},
+  {"id":3,"titulo":"C#","noticia":"............."},
+  {"id":4,"titulo":"JAVA","noticia":"............."},
+  {"id":5,"titulo":"RUBY","noticia":"............."},
+  {"id":6,"titulo":"KOTLIN","noticia":"............."},  
+  ],
+  "usuario":[
+    {"id":1,"nome":"Tiago","email":"tiago@email.com"},
+     {"id":2,"nome":"Bruno","email":"bruno@email.com"},
+    {"id":3,"nome":"Rafael","email":"rafael@email.com"},  
+  ]
+  
+}
